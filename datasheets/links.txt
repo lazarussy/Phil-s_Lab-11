@@ -1,0 +1,9 @@
+https://jlcpcb.com/partdetail/Sunlord-GZ1608D601TF/C1002  --- BEAD
+
+https://jlcpcb.com/partdetail/Monolithic_PowerSystems-MP2359DJ_LFZ/C14259 ---BUCK
+
+https://jlcpcb.com/partdetail/HCI-XC32M4_8_000F18LJDT/C2905353 --- OSC
+
+https://jlcpcb.com/partdetail/9093-B5819WSL/C8598 ---SD
+
+https://jlcpcb.com/partdetail/YUENFUNG-SA1_0_102_C02_0000RS/C22449121 ---SW
