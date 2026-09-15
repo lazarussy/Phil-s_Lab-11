@@ -253,7 +253,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "1.0"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -701,7 +701,7 @@
       {
         "filename": "Phil's_Lab#11.kicad_sch",
         "name": "Phil's_Lab#11",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "845b13d5-82e4-46c1-b932-f90155371bb6"
       }
     ],
     "used_designators": "",
@@ -710,7 +710,7 @@
   "sheets": [
     [
       "845b13d5-82e4-46c1-b932-f90155371bb6",
-      "Root"
+      "Phil's_Lab#11"
     ]
   ],
   "text_variables": {},
