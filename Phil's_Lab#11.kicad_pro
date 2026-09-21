@@ -549,7 +549,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "manufacturing_files/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -655,6 +655,12 @@
           "group_by": false,
           "label": "KLC_S4.1",
           "name": "KLC_S4.1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part #",
+          "name": "LCSC Part #",
           "show": false
         }
       ],
